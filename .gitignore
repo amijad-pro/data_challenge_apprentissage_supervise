@@ -1,0 +1,11 @@
+# Données et soumissions 
+*.csv
+data/
+submissions/
+
+# Environnements et caches Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
