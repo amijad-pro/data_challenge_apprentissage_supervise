@@ -4,7 +4,7 @@
 **Branche finale :** `main`
 
 Ce dépôt contient le code permettant de reproduire l'ensemble des pré-traitements, l'entraînement des modèles, la validation croisée et la génération des fichiers de soumission Kaggle pour les deux défis :
-1. **Régression (`power/powerlifting_regression_vf.ipynb`)** : prédiction du total réalisé (`TotalKg`) sur les données OpenPowerlifting (métrique : RMSE).
+1. **Régression (`powerlifting/powerlifting_regression_vf.ipynb`)** : prédiction du total réalisé (`TotalKg`) sur les données OpenPowerlifting (métrique : RMSE).
 2. **Classification (`hmda/hmda_classification_vf.ipynb`)** : prédiction de l'acceptation d'un prêt immobilier (`accepted`) sur les données HMDA (métrique : ROC AUC).
 
 ---
